@@ -5,7 +5,7 @@
 
   <groupId>testmaven</groupId>
   <artifactId>first-test</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
@@ -22,7 +22,7 @@
     <connection>scm:git:git@github.com:MarishkaIT/first-test.git</connection>
     <developerConnection>scm:git:git@github.com:MarishkaIT/first-test.git</developerConnection>
     <url>https://github.com/MarishkaIT/first-test</url>
-    <tag>first-test-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
