@@ -20,10 +20,9 @@
   <url>http://www.example.com</url>
 
   <scm>
-    <connection>git@github.com:MarishkaIT/maven-start.git</connection>
-    <developerConnection>git@github.com:MarishkaIT/maven-start.git</developerConnection>
-    <url>https://github.com/MarishkaIT/maven-start</url>
-
+    <connection>scm:git:git@github.com:MarishkaIT/first-test.git</connection>
+    <developerConnection>scm:git:git@github.com:MarishkaIT/first-test.git</developerConnection>
+    <url>https://github.com/MarishkaIT/first-test</url>
   </scm>
 
   <properties>
